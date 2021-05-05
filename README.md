@@ -2,13 +2,13 @@
 Simple Login/Register, Authorization suppported by Spring Security, JWT
 
 ## Register
-![](https://imgur.com/a/SpjtI7D)
+![](https://imgur.com/a/SpjtI7D.png)
 
 ## Login
-![](https://imgur.com/yPb2jFV)
+![](https://imgur.com/yPb2jFV.png)
 
 ## User Role
-![](https://imgur.com/tjloNtu)
+![](https://imgur.com/tjloNtu.png)
 
 ## Admin Role
-![](https://imgur.com/gr92X3f)
+![](https://imgur.com/gr92X3f.png)
