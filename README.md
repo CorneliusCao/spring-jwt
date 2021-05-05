@@ -2,7 +2,7 @@
 Simple Login/Register, Authorization suppported by Spring Security, JWT
 
 ## Register
-![](https://imgur.com/a/SpjtI7D.png)
+![](https://imgur.com/0eRIDFp.png)
 
 ## Login
 ![](https://imgur.com/yPb2jFV.png)
